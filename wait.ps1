@@ -1,6 +1,6 @@
 
 #throw "error"
-for($i = 0; $i -le 7 ; $i++)
+for($i = 0; $i -le 8 ; $i++)
 {
    sleep(1)
    Write-Verbose -Verbose "log count $i"
