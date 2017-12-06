@@ -1,2 +1,2 @@
 # niadakBB
-Repo for bug bash 1
+Repo for bug bash 2
